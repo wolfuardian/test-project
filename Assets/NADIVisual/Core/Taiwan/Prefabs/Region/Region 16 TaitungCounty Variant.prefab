@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8753936660690616274
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 780202590508297988, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 7370117143049923963, guid: 97a94a686d8da4f469eeae0762833c67, type: 3}
+    - target: {fileID: 1623964510389802278, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 7370117143049923963, guid: 97a94a686d8da4f469eeae0762833c67, type: 3}
+    - target: {fileID: 2226967169493709019, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.984655
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.7494187
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.530243
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2417658274337122571, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4034980869588804114, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 6685224802848077320, guid: 86c5fe1f56b2aaa48924ff97aaa5bccc, type: 3}
+    - target: {fileID: 4155597919910696351, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5719438248324857681, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -8847854909833776612, guid: 86c5fe1f56b2aaa48924ff97aaa5bccc, type: 3}
+    - target: {fileID: 5913933920504268984, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_RegionAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: df40c2e7b48a091438d91f6d4498e098, type: 2}
+    - target: {fileID: 6040975786367762828, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 7370117143049923963, guid: 97a94a686d8da4f469eeae0762833c67, type: 3}
+    - target: {fileID: 6338463959939486019, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Name
+      value: Region 16 TaitungCounty Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511265387436703231, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -269735516534162763, guid: 86c5fe1f56b2aaa48924ff97aaa5bccc, type: 3}
+    - target: {fileID: 6685075863588334719, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7166146306724222167, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 7370117143049923963, guid: 97a94a686d8da4f469eeae0762833c67, type: 3}
+    - target: {fileID: 7532525688634469096, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: _labelNameEn
+      value: Taitung County
+      objectReference: {fileID: 0}
+    - target: {fileID: 7532525688634469096, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: _labelNameCht
+      value: "\u81FA\u6771\u7E23"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8798692647750778081, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 116bc648da6bccd42b98e64bdeb83ed6, type: 3}
